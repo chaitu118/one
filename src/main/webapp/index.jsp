@@ -558,7 +558,7 @@
             <div class="container" style="padding:12px 0;">
                 <nav aria-label="Mobile navigation">
                     <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:8px;">
-                        <li><a href="#">ROOM</a></li>
+                        <li><a href="#">Home</a></li>
                         <li><a href="#">Categories</a></li>
                         <li><a href="#">Trending</a></li>
                         <li><a href="#deals">Deals</a></li>
